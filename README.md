@@ -1,6 +1,7 @@
 # ClickMeet
 
 [WEBSITE](https://clickmeet.app/)
+
 [RELEASES](https://github.com/sakhnyuk/click-meet-releases/releases)
 
 The ClickMeet is calendar app provides convenient and efficient way to manage your daily schedule. It uses the Google Calendar API to fetch all your calendars and events and puts them into a tray menu on your desktop. This allows you to quickly and easily view your schedule without having to open a separate application.
